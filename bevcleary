@@ -1,0 +1,55 @@
+{
+	"label": "Beverly Cleary Children's Choice Award Nominees",
+	"description": "Curent nominees for the Beverly Cleary Children's Choice Award",
+	"list": [{
+			"label": "Frankie Sparks and the Class Pet",
+			"isbns": [
+				"9781534430433",
+				"1534430431",
+				"9781534430440"
+			]
+		},
+		{
+			"label": "Just Like Beverly: A Biography of Beverly Cleary",
+			"isbns": [
+				"9781632172228",
+				"1632172224"
+			]
+		},
+		{
+			"label": "Thinker: My Puppy Poet and Me",
+			"isbns": [
+				"9781492677246",
+				"1492677248"
+			]
+		},
+		{
+			"label": "Buzzing With Questions: The Inquisitive Mind of Charles Henry Turner",
+			"isbns": [
+				"9781629795584",
+				"1629795585"
+			]
+		},
+		{
+			"label": "Juana & Lucas: Big Problems",
+			"isbns": [
+				"1536201316",
+				"9781536201314"
+			]
+		},
+		{
+			"label": "A is for Elizabeth",
+			"isbns": [
+				"9781250162120",
+				"1250162122"
+			]
+		},
+		{
+			"label": "The Tree and Me",
+			"isbns": [
+				"0735229414",
+				"9780735229419"
+			]
+		}
+	]
+}
