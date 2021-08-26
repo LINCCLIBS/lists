@@ -1,0 +1,219 @@
+{
+	"label": "Back to School",
+	"description": "A reading list complied by LINCC Childrens' Librarians focused on returning to or starting school.",
+	"list": [{
+			"label": "Ollie and Augustus",
+			"isbns": [
+				" 9781536209679"
+			]
+		},
+		{
+			"label": "Butterflies on the First Day of School",
+			"isbns": [
+				"9781454921196"
+			]
+		},
+		{
+			"label": "So Big!",
+			"isbns": [
+				"9781547600793"
+			]
+		},
+		{
+			"label": "Raj's Rule (For the Bathroom at School)",
+			"isbns": [
+				"9781771473408"
+			]
+		},
+		{
+			"label": "First Day Critter Jitters",
+			"isbns": [
+				" 9780735228559"
+			]
+		},
+		{
+			"label": "Your Name is a Song",
+			"isbns": [
+				"9781943147724"
+			]
+		},
+		{
+			"label": "My First Day",
+			"isbns": [
+				"9780593306277",
+				"9780593306260"
+			]
+		},
+		{
+			"label": "I'm Afraid Your Teddy is in the Principal's Office",
+			"isbns": [
+				"9781536201987"
+			]
+		},
+		{
+			"label": "Little Bat in Night School",
+			"isbns": [
+				"9780358269847"
+			]
+		},
+		{
+			"label": "My School Stinks!",
+			"isbns": [
+				"9780593116524"
+			]
+		},
+		{
+			"label": "The One and Only Sparkella",
+			"isbns": [
+				"9781250750754"
+			]
+		},
+		{
+			"label": "Little Ghoul Goes to School",
+			"isbns": [
+				"9780062441119"
+			]
+		},
+		{
+			"label": "Becoming Vanessa",
+			"isbns": [
+				"9780525582137",
+				"9780525582120",
+				"9780525582144",
+				"9780593399866"
+			]
+		},
+		{
+			"label": "The Day You Begin",
+			"isbns": [
+				"9780399246531",
+				"9781984837899"
+			]
+		},
+		{
+			"label": "The King of Kindergarten",
+			"isbns": [
+				"9781524740740",
+				"9781984889379"
+			]
+		},
+		{
+			"label": "I Got the School Spirit",
+			"isbns": [
+				"9781547602612",
+				"9781547602629"
+			]
+		},
+		{
+			"label": "Danbi Leads the School Parade",
+			"isbns": [
+				"9780593306277",
+				"9780451478917",
+				"9780593460443"
+			]
+		},
+		{
+			"label": "Our Favorite Day of the Year",
+			"isbns": [
+				"9781481485630",
+				"9781705001424",
+				"9781481485647"
+			]
+		},
+		{
+			"label": "All Are Welcome",
+			"isbns": [
+				"9780525579649",
+				"9780525579656",
+				"9780593504482"
+			]
+		},
+		{
+			"label": "School of Fish",
+			"isbns": [
+				"9781534438897"
+			]
+		},
+		{
+			"label": "Isabel and Her Colores Go to School",
+			"isbns": [
+				"9781534110632"
+			]
+		},
+		{
+			"label": "Bird Boy",
+			"isbns": [
+				"9781984893772"
+			]
+		},
+		{
+			"label": "Principal Tate is Running Late",
+			"isbns": [
+				"9780063025745"
+			]
+		},
+		{
+			"label": "How to be kind in kindergarten:  a book to put in your backpack",
+			"isbns": [
+				"9780593226940",
+				"9780593459171"
+			]
+		},
+		{
+			"label": "Truman",
+			"isbns": [
+				"9781534416642",
+				"9781534416659"
+			]
+		},
+		{
+			"label": "I Can Help",
+			"isbns": [
+				"9780802855046"
+			]
+		},
+		{
+			"label": "Henry at Home",
+			"isbns": [
+				"9781328916754"
+			]
+		},
+		{
+			"label": "If I built a school",
+			"isbns": [
+				"978052555918"
+			]
+		},
+		{
+			"label": "Kindergarten Hat",
+			"isbns": [
+				"9781499809893"
+			]
+		},
+		{
+			"label": "Lena's Shoes are Nervous",
+			"isbns": [
+				"9781534408944"
+			]
+		},
+		{
+			"label": "Twig",
+			"isbns": [
+				"9781534424685"
+			]
+		},
+		{
+			"label": "On the first day of first grade",
+			"isbns": [
+				"9780062668516"
+			]
+		},
+		{
+			"label": "A Thousand white butterflies",
+			"isbns": [
+				"9781580895774",
+				"9781632898432"
+			]
+		}
+	]
+}
